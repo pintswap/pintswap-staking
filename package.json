@@ -5,6 +5,9 @@
   "main": "lib/index.js",
   "repository": "https://github.com/pintswap/pintswap-staking",
   "author": "pintswap",
+  "scripts": {
+    "build": "hardhat compile"
+  },
   "license": "MIT",
   "private": false,
   "devDependencies": {
