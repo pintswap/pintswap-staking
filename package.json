@@ -1,9 +1,9 @@
 {
-  "name": "pintswap-vaults",
+  "name": "pintswap-staking",
   "version": "0.1.0",
-  "description": "PintSwap vault contracts",
+  "description": "PintSwap staking contracts",
   "main": "lib/index.js",
-  "repository": "https://github.com/pintswap/pintswap-vaults",
+  "repository": "https://github.com/pintswap/pintswap-staking",
   "author": "pintswap",
   "license": "MIT",
   "private": false,
